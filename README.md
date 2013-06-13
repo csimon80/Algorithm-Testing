@@ -1,4 +1,6 @@
-R_testing
+testing
 =========
 
-Learning vc
+Testing of different algorithms in different languages.
+
+Current Implementation :
