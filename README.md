@@ -6,4 +6,4 @@ Testing of different algorithms in different languages.
 Current Implementation :
 
 
-R cran - Naive logistic regression with L-BFGS-B solver (optim).
+R - Naive logistic regression with L-BFGS-B solver (optim).
